@@ -1,6 +1,10 @@
 # 简介
-这是用vue框架写的网易云音乐项目，浏览器请切换成移动设备后查看，目前许多功能并未完善，只用来练习vue写法
+这是用vue框架写的网易云音乐项目，浏览器请切换成移动设备后查看，目前许多功能并未完善，只用来练习vue写法。
 另外，它需要配合网易云音乐API一起使用
+
+# 项目预览
+<img src="https://diyulan.me/img/content_musicApp1.webp">
+<img src="https://diyulan.me/img/content_musicApp2.webp">
 
 # 网易云音乐API
 https://github.com/Binaryify/NeteaseCloudMusicApi
