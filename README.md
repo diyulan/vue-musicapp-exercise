@@ -3,8 +3,8 @@
 另外，它需要配合网易云音乐API一起使用
 
 # 项目预览
-<img src="https://diyulan.me/img/content_musicApp1.webp">
-<img src="https://diyulan.me/img/content_musicApp2.webp">
+<img src="https://diyulan.me/img/content_musicApp1.webp" width="50%" height="50%">
+<img src="https://diyulan.me/img/content_musicApp2.webp" width="50%" height="50%">
 
 # 网易云音乐API
 https://github.com/Binaryify/NeteaseCloudMusicApi
